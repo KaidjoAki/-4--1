@@ -10,8 +10,8 @@ def multiplication_table():
             result = i * j
             print(f"{i} × {j} = {result}")
         print()
-
-def addition_table():
+                                        #Изменение от Княжева
+def addition_table ():
     print("Табл слож.:")
     for i in range(1, 11):
         for j in range(1, 11):
